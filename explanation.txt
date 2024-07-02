@@ -1,0 +1,5 @@
+for jwt 
+
+AzureAD+KOMALKUMARIJHA@CEQ-ICT-LAPTOP-095 MINGW64 ~/Desktop/chat application (master)
+$ openssl rand -base64 32
+0s65rgp5+tyDHSdEuhGux9wx5cmKmuwiAhxL8dkeir4=
